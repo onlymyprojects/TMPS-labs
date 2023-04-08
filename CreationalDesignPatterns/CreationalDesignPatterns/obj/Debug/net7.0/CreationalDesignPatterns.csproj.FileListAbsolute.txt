@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\bin\Debug\net7.0\CreationalDesignPatterns.exe
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\bin\Debug\net7.0\CreationalDesignPatterns.deps.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\bin\Debug\net7.0\CreationalDesignPatterns.runtimeconfig.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\bin\Debug\net7.0\CreationalDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\bin\Debug\net7.0\CreationalDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\refint\CreationalDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\CreationalDesignPatterns.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\CreationalDesignPatterns\CreationalDesignPatterns\obj\Debug\net7.0\ref\CreationalDesignPatterns.dll
