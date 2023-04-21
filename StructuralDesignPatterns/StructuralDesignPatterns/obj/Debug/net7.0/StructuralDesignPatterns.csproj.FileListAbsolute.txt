@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\net7.0\StructuralDesignPatterns.exe
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\net7.0\StructuralDesignPatterns.deps.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\net7.0\StructuralDesignPatterns.runtimeconfig.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\net7.0\StructuralDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\net7.0\StructuralDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\refint\StructuralDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\StructuralDesignPatterns.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\net7.0\ref\StructuralDesignPatterns.dll
