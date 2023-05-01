@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\bin\Debug\net7.0\BehaviorDesignPatterns.exe
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\bin\Debug\net7.0\BehaviorDesignPatterns.deps.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\bin\Debug\net7.0\BehaviorDesignPatterns.runtimeconfig.json
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\bin\Debug\net7.0\BehaviorDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\bin\Debug\net7.0\BehaviorDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\refint\BehaviorDesignPatterns.dll
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.pdb
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\BehaviorDesignPatterns.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Desktop\myFiles\Univer\TMPS\BehaviorDesignPatterns\BehaviorDesignPatterns\obj\Debug\net7.0\ref\BehaviorDesignPatterns.dll
