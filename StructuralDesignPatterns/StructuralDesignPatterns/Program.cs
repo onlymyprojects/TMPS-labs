@@ -4,25 +4,25 @@ using StructuralDesignPatterns.Decorator;
 
 // BRIDGE
 IEngineStartStopActivator carStartStopActivator = new CarStartStopActivator();
-IEngineStartStop carStartStop = new CarStartStop(carStartStopActivator);
-carStartStop.Start();
+EngineStartStop carStartStop = new CarStartStop(carStartStopActivator);
+carStartStop.StartEngine();
 // ADAPTER
 ICar myCar = new Car();
 myCar.Ride();
 // BRIDGE
-carStartStop.Stop();
+carStartStop.StopEngine();
 
 
 // BRIDGE
 IEngineStartStopActivator motorcycleStartStopActivator = new MotorcycleStartStopActivator();
-IEngineStartStop motorcycleStartStop = new MotorcycleStartStop(motorcycleStartStopActivator);
-motorcycleStartStop.Start();
+EngineStartStop motorcycleStartStop = new MotorcycleStartStop(motorcycleStartStopActivator);
+motorcycleStartStop.StartEngine();
 // ADAPTER
 IMotorcycle motorcycle = new Motorcycle();
 ICar myMotorcycle = new MotorcycleAdapter(motorcycle);
 myMotorcycle.Ride();
 // BRIDGE
-motorcycleStartStop.Stop();
+motorcycleStartStop.StopEngine();
 
 
 // DECORATOR

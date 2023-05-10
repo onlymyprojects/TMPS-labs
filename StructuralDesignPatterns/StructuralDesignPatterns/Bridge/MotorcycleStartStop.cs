@@ -1,20 +1,16 @@
 ﻿namespace StructuralDesignPatterns.Bridge;
 
-public class MotorcycleStartStop : IEngineStartStop
+public class MotorcycleStartStop : EngineStartStop
 {
-    private readonly IEngineStartStopActivator _engineStartStopActivator;
-    public MotorcycleStartStop(IEngineStartStopActivator engineStartStopActivator)
+    public MotorcycleStartStop(IEngineStartStopActivator engineStartStopActivator) : base(engineStartStopActivator) { }
+
+    public override void StartEngine()
     {
-        _engineStartStopActivator = engineStartStopActivator;
+        base.StartEngine();
     }
 
-    public void Start()
+    public override void StopEngine()
     {
-        _engineStartStopActivator.StartEngine();
-    }
-
-    public void Stop()
-    {
-        _engineStartStopActivator.StopEngine();
+        base.StopEngine();
     }
 }
